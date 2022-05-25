@@ -48,14 +48,15 @@ body {
   text-align: center;
   margin-top: 5%;
 }
-.text-box {
+.box {
   display: flex;
   justify-content: center;
-  width: 60%;
-  height: 30%;
-  background-color: #fff;
+  width: 50%;
+  height: auto;
+  background-color: #c7c7c7;
   margin: auto;
   border-radius: 10px;
+  margin-top: 5%;
 }
 
 /* TEXTOS */
@@ -76,4 +77,11 @@ body {
   color: #f9cb32;
   text-align: center;
   font-weight: 900;
+  margin-top: 5%;
+}
+.text-box {
+  width: 90%;
+  font-weight: 400;
+  text-align: justify;
+  text-justify: inter-word;
 }
