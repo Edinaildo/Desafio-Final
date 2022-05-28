@@ -32,6 +32,7 @@ body {
   font-weight: 900;
   cursor: pointer;
   color: black;
+  border-bottom: 2px solid #f9cb32;
 }
 .header-menu-button:hover {
   border-bottom: 7px solid #f9cb32;
