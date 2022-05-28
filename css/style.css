@@ -116,7 +116,8 @@ body {
 }
 
 .imagens {
-  width: 400px;
+  width: 500px;
   height: 700px;
   margin-top: 10%;
+  border-radius: 15px;
 }
