@@ -33,6 +33,12 @@ body {
   cursor: pointer;
   color: black;
 }
+.header-menu-button:hover {
+  border-bottom: 2px solid #f9cb32;
+}
+.header-menu-button:active {
+  border-bottom: 2px solid #f9cb32;
+}
 
 .icon {
   display: flex;
