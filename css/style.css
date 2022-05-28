@@ -34,10 +34,10 @@ body {
   color: black;
 }
 .header-menu-button:hover {
-  border-bottom: 5px solid #f9cb32;
+  border-bottom: 7px solid #f9cb32;
 }
 .header-menu-button:active {
-  border-bottom: 5px solid #f9cb32;
+  border-bottom: 7px solid #f9cb32;
 }
 
 .icon {
