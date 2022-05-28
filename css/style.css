@@ -139,29 +139,3 @@ body {
 .texto-subtitulo {
   color: #fff;
 }
-@media (min-width: 700px) {
-  html,
-  body {
-    height: 100%;
-    width: 100%;
-  }
-  .container{
-    height: auto;
-  }
-  button.header-menu-button {
-    font-size: 18px;
-  }
-  .image-icon{
-    width: 25%;
-    margin-top: 20%;
-  }
-  .fonte-grande {
-    font-size: 30px;
-  }
-  .fonte-pequena{
-    font-size: 15px;
-  }
-
-  .box{
-    width: 95%;
-  }
